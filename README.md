@@ -1,6 +1,5 @@
-# Ferramenta de correção automática LAB-SD-AUTO-CORRECTION-TOOL
+# LAB-SD-AUTO-CORRECTION-TOOL
 
----
 
 ## Overview:
 
