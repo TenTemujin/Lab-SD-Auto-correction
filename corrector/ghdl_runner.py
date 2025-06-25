@@ -1,8 +1,11 @@
 import subprocess
 from pathlib import Path
 
-def run_ghdl():
+class ProjectSimulator():
 
+    def ghdl_compile():
+        subprocess.run()
 
-def ghdl_compile():
+    def run_ghdl():
+        subprocess.run()
 
