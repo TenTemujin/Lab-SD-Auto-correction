@@ -1,7 +1,3 @@
-Of course\! Here is the `README.md` file translated into English based on the previously provided files.
-
------
-
 # Grading Automation Tools
 
 This project provides a set of Python scripts to automate and standardize the process of creating grading reports for student assignments. The solution is divided into two main tools:
