@@ -5,7 +5,7 @@ from pathlib import Path
 
 from markdown_it import MarkdownIt
 from mdit_py_plugins.front_matter import front_matter_plugin
-from mdit_py_plugins.texmath import texmath_plugin  # ✅ plugin de matemática compatível
+from mdit_py_plugins.texmath import texmath_plugin 
 
 from pyppeteer import launch
 
@@ -84,7 +84,7 @@ async def convert_file_to_pdf(md_path: Path, browser):
 
 async def main_converter(base_dir: Path):
     print("\n" + "="*50)
-    print("🚀 Iniciando Conversão (sem Pandoc) de Markdown para PDF")
+    print("🚀 Iniciando Conversão de Markdown para PDF")
     print(f"📂 Diretório de Busca: {base_dir.resolve()}")
     print("="*50 + "\n")
 
