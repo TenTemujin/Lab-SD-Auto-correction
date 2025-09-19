@@ -38,7 +38,7 @@ $$
 
 **Cálculo prático com suas notas:**
 
-``
+`= ( ( [Nota Doc] * 0.1 ) + ( [Nota Comp] * 0.2 ) + ( [Nota Sim] * 0.7 ) ) * [Fator Pontualidade]`
 
 ---
 **[Comentários finais ou de encerramento]**
