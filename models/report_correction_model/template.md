@@ -33,12 +33,12 @@
 A nota final é calculada usando a seguinte fórmula:
 
 $$
-\text{Nota}_{\text{final}} = \Big( (N_{Doc} \cdot 0.1) + (N_{Comp} \cdot 0.2) + (N_{Sim} \cdot 0.7) \Big) \cdot F_{\text{Pontualidade}} \cdot F_{\text{Bônus}}
+\text{Nota}_{\text{final}} = \Big( (N_{Doc} \cdot 0.1) + (N_{Comp} \cdot 0.2) + (N_{Sim} \cdot 0.7) \Big) \cdot F_{\text{Pontualidade}}
 $$
 
 **Cálculo prático com suas notas:**
 
-`= ( ( [Nota Doc] * 0.1 ) + ( [Nota Comp] * 0.2 ) + ( [Nota Sim] * 0.7 ) ) * [Fator Pontualidade]`
+``
 
 ---
 **[Comentários finais ou de encerramento]**
